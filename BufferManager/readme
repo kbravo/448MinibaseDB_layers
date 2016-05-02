@@ -1,9 +1,0 @@
-
-Team member 1 (login - yadav11) : Kartik Yadav
-Team member 2 (login - juneja0) : Jaideep Juneja
-
-Contribution 1 (yadav11) : Implemented till the pin page function of the Buffer Manager. Also put in the error classes. Debugging. Error protocol implementation.
-
-Contribution 2 (juneja0) : Implemented till from unpin page to getNumUnpinned function and also did put in the error classes. Debugging.
-
-Works perfectly with all test cases passing!
