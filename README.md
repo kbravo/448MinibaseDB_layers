@@ -12,9 +12,9 @@ More details: [here](http://research.cs.wisc.edu/coral/minibase/minibase.html)
 Each layer is standalone and uses libraries for relatively lower layers to facilitate testing, incorporation and experimentation.
 
 #### Standalone layers
-- Storage (Physical Memory Manager and Buffer)
-- Query Processor (Relational operator identification and comprehension)
-- Query Optimizer (Planning and evaluation)
+- Storage (Physical Memory Manager and Buffer: BufferManager)
+- Query Processor (Relational operator identification and comprehension: RelOperator)
+- Query Optimizer (Planning and evaluation: QueryEval)
 
 ---
 #### Storage
