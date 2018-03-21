@@ -5,7 +5,7 @@
 Minibase is a barebones relational database management system.
 Its design is inspired from Minibase (RDBMS developed at University of Wisconsin).
 
-**More details:** [here](http://research.cs.wisc.edu/coral/minibase/minibase.html)
+More details: [here](http://research.cs.wisc.edu/coral/minibase/minibase.html)
 
 ---
 
@@ -25,6 +25,8 @@ Parser converts the query into a logical plan representation and then calls quer
 
 #### Query Optimizer
 implements selectivity estimation framework and cost-based optimizer.
+
+---
 
 #### Coming up
 - Recovery and transaction mangement.
